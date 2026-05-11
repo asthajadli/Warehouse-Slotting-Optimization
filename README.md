@@ -1,4 +1,3 @@
-﻿# -Warehouse-Slotting-Optimization-Using-Demand-Graphs
 # 🏭 Warehouse Slotting Optimization Using Demand Graphs
 
 An ML-powered system that optimizes warehouse product placement to minimize picker travel distance, using demand graph analysis and community detection algorithms.
